@@ -2,7 +2,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> I'm Apostolos Karvelas
 
 ## About Me 👨‍🎓
-<p><img align="right" src="./images/giphy1.gif" width="200" height="200" /></p>
+<p><img align="right" src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB" width="200" height="200" /></p>
 
 - 💻 I am a 4th year computer science undergrad at University of Athens. [@UoA].
 - 📈 I'm a Data science and AI Enthusiast.
