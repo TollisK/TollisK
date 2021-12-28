@@ -35,17 +35,17 @@
 
 <br />
 ### Tools 🛠️:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.png" />
 <img align="left" alt="Linux" width="26px" src="./images/linux.png" />
 <img align="left" alt="Git" width="26px" src="./images/git.png" />
-<img align="left" alt="GitHub" width="26px" src="./images/github3.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="26px" src="./images/github.png" />
+<img align="left" alt="Terminal" width="26px" src="./images/terminal.png" />
 
 <br />
 
 ### Connect with me 🔗:
 
-[<img align="left" alt="TollisK"  width="22px" src="/images/globe2.png" />][website]
+[<img align="left" alt="TollisK"  width="22px" src="/images/website.png" />][website]
 [<img align="left" alt="TollisK | LinkedIn" width="22px" src="/images/linkedin.png" />][linkedin]
 
 <br />
