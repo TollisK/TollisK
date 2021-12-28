@@ -50,10 +50,6 @@
 
 ---
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TollisK&layout=compact&theme=tokyonight" width="350" height="190"/> 
-</p>
-
 
 [@UoA]: https://www.di.uoa.gr/
 [website]: https://TollisK.github.io/
