@@ -18,22 +18,21 @@
 <img align="left" alt="R" width="26px" src="images/r.png" />
 <img align="left" alt="Java" width="26px" src="images/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="images/js.png" />
-<img align="left" alt="Assembly" width="26px" src="images/assembly.png" />
+<img align="left" alt="Assembly" width="32px" src="images/assembly.png" />
 
-
-<br />
+<br><br>
 ### AI/ML 🤖:
 <img align="left" alt="PyTorch" width="26px" src="images/pytorch.png" />
 <img align="left" alt="seaborn" width="26px" src="images/seaborn.png" />
 <img align="left" alt="pandas" width="26px" src="images/pandas.png" />
 <img align="left" alt="scikit-learn" width="26px" src="images/scikit-learn.png" />
 
-<br />
+<br><br>
 ### Database 💾:
 <img align="left" alt="MySQL" width="26px" src="images/mysql.png" />
 <img align="left" alt="Oracle" width="26px" src="images/oracle.png" />
 
-<br />
+<br><br>
 ### Tools 🛠️:
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.png" />
 <img align="left" alt="Linux" width="26px" src="./images/linux.png" />
@@ -41,8 +40,7 @@
 <img align="left" alt="GitHub" width="26px" src="./images/github.png" />
 <img align="left" alt="Terminal" width="26px" src="./images/terminal.png" />
 
-<br />
-
+<br><br>
 ### Connect with me 🔗:
 
 [<img align="left" alt="TollisK"  width="22px" src="/images/website.png" />][website]
