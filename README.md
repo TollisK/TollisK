@@ -12,39 +12,39 @@
 
 ### Programming Languages 👨‍💻:
 
-<img align="left" alt="Python" width="26px" src="images/python.png" />
-<img align="left" alt="C" width="26px" src="images/c.png" />
-<img align="left" alt="Cpp" width="26px" src="images/cpp.png" />
-<img align="left" alt="R" width="26px" src="images/r.png" />
-<img align="left" alt="Java" width="26px" src="images/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="images/js.png" />
-<img align="left" alt="Assembly" width="32px" src="images/assembly.png" />
+<img align="left" alt="Python" width="36px" src="images/python.png" />
+<img align="left" alt="C" width="36px" src="images/c.png" />
+<img align="left" alt="Cpp" width="36px" src="images/cpp.png" />
+<img align="left" alt="R" width="45px" src="images/r.png" />
+<img align="left" alt="Java" width="50px" src="images/java.png" />
+<img align="left" alt="JavaScript" width="36px" src="images/js.png" />
+<img align="left" alt="Assembly" width="42px" src="images/assembly.png" />
 
 <br><br>
 ### AI/ML 🤖:
-<img align="left" alt="PyTorch" width="26px" src="images/pytorch.png" />
-<img align="left" alt="seaborn" width="26px" src="images/seaborn.png" />
-<img align="left" alt="pandas" width="26px" src="images/pandas.png" />
-<img align="left" alt="scikit-learn" width="26px" src="images/scikit-learn.png" />
+<img align="left" alt="PyTorch" width="44px" src="images/pytorch.png" />
+<img align="left" alt="seaborn" width="39px" src="images/seaborn.png" />
+<img align="left" alt="pandas" width="30px" src="images/pandas.png" />
+<img align="left" alt="scikit-learn" width="54px" src="images/scikit-learn.png" />
 
 <br><br>
 ### Database 💾:
-<img align="left" alt="MySQL" width="26px" src="images/mysql.png" />
-<img align="left" alt="Oracle" width="26px" src="images/oracle.png" />
+<img align="left" alt="MySQL" width="44px" src="images/mysql.png" />
+<img align="left" alt="Oracle" width="54px" src="images/oracle2.png" />
 
 <br><br>
 ### Tools 🛠️:
-<img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.png" />
-<img align="left" alt="Linux" width="26px" src="./images/linux.png" />
-<img align="left" alt="Git" width="26px" src="./images/git.png" />
-<img align="left" alt="GitHub" width="26px" src="./images/github.png" />
-<img align="left" alt="Terminal" width="26px" src="./images/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="./images/vscode.png" />
+<img align="left" alt="Linux" width="32px" src="./images/linux.png" />
+<img align="left" alt="Git" width="32px" src="./images/git.png" />
+<img align="left" alt="GitHub" width="32px" src="./images/github.png" />
+<img align="left" alt="Terminal" width="32px" src="./images/terminal.png" />
 
 <br><br>
 ### Connect with me 🔗:
 
-[<img align="left" alt="TollisK"  width="22px" src="/images/website.png" />][website]
-[<img align="left" alt="TollisK | LinkedIn" width="22px" src="/images/linkedin.png" />][linkedin]
+[<img align="left" alt="TollisK"  width="30px" src="/images/website.png" />][website]
+[<img align="left" alt="TollisK | LinkedIn" width="30px" src="/images/linkedin.png" />][linkedin]
 
 <br />
 
