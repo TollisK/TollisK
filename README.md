@@ -18,7 +18,7 @@
 <img align="left" alt="R" width="45px" src="images/r.png" />
 <img align="left" alt="Java" width="50px" src="images/java.png" />
 <img align="left" alt="JavaScript" width="36px" src="images/js.png" />
-<img align="left" alt="Assembly" width="42px" src="images/assembly.png" />
+<img align="left" alt="Assembly" width="42px" src="images/assembly2.png" />
 
 <br><br>
 ### AI/ML 🤖:
@@ -35,7 +35,7 @@
 <br><br>
 ### Tools 🛠️:
 <img align="left" alt="Visual Studio Code" width="32px" src="./images/vscode.png" />
-<img align="left" alt="Linux" width="32px" src="./images/linux.png" />
+<img align="left" alt="Linux" width="32px" src="./images/ubuntu3.png" />
 <img align="left" alt="Git" width="32px" src="./images/git.png" />
 <img align="left" alt="GitHub" width="32px" src="./images/github.png" />
 <img align="left" alt="Terminal" width="32px" src="./images/terminal.png" />
