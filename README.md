@@ -35,7 +35,7 @@
 <br><br>
 ### Tools 🛠️:
 <img align="left" alt="MATLAB" width="32px" src="./images/matlab.png" />
-<img align="left" alt="CUDA" width="50px" src="./images/cuda.jpg" />
+<img align="left" alt="CUDA" width="50px" src="./images/cuda2.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="./images/vscode.png" />
 <img align="left" alt="Linux" width="32px" src="./images/ubuntu3.png" />
 <img align="left" alt="Git" width="32px" src="./images/git.png" />
