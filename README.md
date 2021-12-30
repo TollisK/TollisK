@@ -55,4 +55,4 @@
 
 [@UoA]: https://www.di.uoa.gr/
 [website]: https://TollisK.github.io/
-[linkedin]: https://www.linkedin.com/in/TollisK/
+[linkedin]: https://www.linkedin.com/in/apostolos-karvelas-91279b192/
