@@ -45,7 +45,6 @@
 <br><br>
 ### Connect with me 🔗:
 
-[<img align="left" alt="TollisK"  width="30px" src="/images/website.png" />][website]
 [<img align="left" alt="TollisK | LinkedIn" width="30px" src="/images/linkedin2.png" />][linkedin]
 
 <br />
