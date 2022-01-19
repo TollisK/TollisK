@@ -17,7 +17,6 @@
 <img align="left" alt="Cpp" width="36px" src="images/cpp.png" />
 <img align="left" alt="R" width="45px" src="images/r.png" />
 <img align="left" alt="Java" width="50px" src="images/java.png" />
-<img align="left" alt="JavaScript" width="36px" src="images/js.png" />
 <img align="left" alt="Assembly" width="42px" src="images/assembly2.png" />
 
 <br><br>
