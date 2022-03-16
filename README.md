@@ -24,6 +24,7 @@
 <img align="left" alt="PyTorch" width="44px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="seaborn" width="43px" src="images/seaborn.png" />
 <img align="left" alt="numpy" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
+<img align="left" alt="tensorflow" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="pandas" width="32px" src="images/pandas.png" />
 <img align="left" alt="scikit-learn" width="70px" src="images/scikit-learn.png" />
 
@@ -34,6 +35,7 @@
 
 <br><br>
 ### Tools 🛠️:
+<img align="left" alt="Azure" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="MATLAB" width="32px" src="./images/matlab.png" />
 <img align="left" alt="CUDA" width="50px" src="./images/cuda2.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="./images/vscode.png" />
