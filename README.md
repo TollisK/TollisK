@@ -12,24 +12,24 @@
 
 ### Programming Languages 👨‍💻:
 
-<img align="left" alt="Python" width="36px" src="images/python.png" />
-<img align="left" alt="C" width="36px" src="images/c.png" />
-<img align="left" alt="Cpp" width="36px" src="images/cpp.png" />
-<img align="left" alt="R" width="45px" src="images/r.png" />
-<img align="left" alt="Java" width="50px" src="images/java.png" />
-<img align="left" alt="Assembly" width="42px" src="images/assembly2.png" />
+<img align="left" alt="Python" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="C" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="Cpp" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="R" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+<img align="left" alt="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="Assembly" width="45px" src="images/assembly2.png" />
 
 <br><br>
 ### AI/ML 🤖:
-<img align="left" alt="PyTorch" width="44px" src="images/pytorch.png" />
-<img align="left" alt="seaborn" width="39px" src="images/seaborn.png" />
-<img align="left" alt="pandas" width="30px" src="images/pandas.png" />
+<img align="left" alt="PyTorch" width="44px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" alt="seaborn" width="43px" src="images/seaborn.png" />
+<img align="left" alt="pandas" width="32px" src="images/pandas.png" />
 <img align="left" alt="scikit-learn" width="54px" src="images/scikit-learn.png" />
 
 <br><br>
 ### Database 💾:
-<img align="left" alt="MySQL" width="44px" src="images/mysql.png" />
-<img align="left" alt="Oracle" width="54px" src="images/oracle2.png" />
+<img align="left" alt="MySQL" width="44px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Oracle" width="54px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
 
 <br><br>
 ### Tools 🛠️:
