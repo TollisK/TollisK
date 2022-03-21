@@ -38,6 +38,14 @@
 <img align="left" alt="MongoDB" width="58px" src="images/mongo2.svg" />
 
 <br><br>
+### Big Data💽:
+<img align="left" alt="Kafka" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+<img align="left" alt="Hive" width="58px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" />
+<img align="left" alt="Spark" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img align="left" alt="Flume" width="58px" src="https://flume.apache.org/_static/flume-logo.png" />
+<img align="left" alt="Hadoop" width="72px" src="https://seeklogo.com/images/H/hadoop-logo-D36814CB84-seeklogo.com.png" />
+
+<br><br>
 ### Tools 🛠️:
 <img align="left" alt="Azure" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 <img align="left" alt="MATLAB" width="32px" src="./images/matlab.png" />
