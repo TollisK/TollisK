@@ -35,7 +35,7 @@
 <img align="left" alt="MySQL" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Oracle" width="58px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
 <img align="left" alt="PostgreSQL" width="53px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img align="left" alt="MongoDB" width="58px" src="images/mongo.png" />
+<img align="left" alt="MongoDB" width="58px" src="images/mongo2.svg" />
 
 <br><br>
 ### Tools 🛠️:
