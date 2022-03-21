@@ -23,6 +23,7 @@
 <br><br>
 ### AI/ML 🤖:
 <img align="left" alt="PyTorch" width="44px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+<img align="left" alt="Keras" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="seaborn" width="43px" src="images/seaborn.png" />
 <img align="left" alt="numpy" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
 <img align="left" alt="tensorflow" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
@@ -30,9 +31,11 @@
 <img align="left" alt="scikit-learn" width="70px" src="images/scikit-learn.png" />
 
 <br><br>
-### Database 💾:
+### Database Systems💾:
 <img align="left" alt="MySQL" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Oracle" width="58px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="PostgreSQL" width="53px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img align="left" alt="MongoDB" width="58px" src="images/mongo.png" />
 
 <br><br>
 ### Tools 🛠️:
