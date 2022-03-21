@@ -17,6 +17,7 @@
 <img align="left" alt="Cpp" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="R" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 <img align="left" alt="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="Prolog" width="45px" src="images/prolog.png" />
 <img align="left" alt="Assembly" width="45px" src="images/assembly2.png" />
 
 <br><br>
