@@ -58,7 +58,7 @@
 
 <br><br>
 ### Connect with me 🔗:
-[<img align="left" alt="TollisK | Website" width="30px" src="https://freesvg.org/img/1386749018.png" />][website]
+[<img align="left" alt="TollisK | Website" width="30px" src="https://img.icons8.com/stickers/344/globe.png" />][website]
 [<img align="left" alt="TollisK | LinkedIn" width="30px" src="/images/linkedin2.png" />][linkedin]
 
 <br />
