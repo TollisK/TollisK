@@ -58,7 +58,7 @@
 
 <br><br>
 ### Connect with me 🔗:
-
+[<img align="left" alt="TollisK | Website" width="30px" src="https://freesvg.org/img/1386749018.png" />][website]
 [<img align="left" alt="TollisK | LinkedIn" width="30px" src="/images/linkedin2.png" />][linkedin]
 
 <br />
@@ -67,5 +67,5 @@
 
 
 [@UoA]: https://www.di.uoa.gr/
-[website]: https://TollisK.github.io/
+[website]: https://tollisk.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/apostolos-karvelas-91279b192/
