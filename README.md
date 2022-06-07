@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> I'm Apostolos Karvelas
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20"> I'm Apostolos Karvelas
 
 ## About Me 👨‍🎓
 <p><img align="right" src="images/giphy.gif" width="250" height="250" /></p>
